@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="User API Suite">
+	<listeners>
+		<listener class-name="api.utilities.ExtentReportClass"/>
+	</listeners>
+  <test name="User API Test">
+    <classes>
+      <!-- <class name="api.test.UserAPITest_DDT"/> --> 
+      <!-- <class name="api.test.UserAPITest_POJO"/> -->
+      <class name="api.test.UserAPITest_POJO2"/>
+    </classes>
+  </test>
+</suite>

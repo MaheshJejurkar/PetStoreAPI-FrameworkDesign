@@ -1,0 +1,10 @@
+api\endpoints\UserEndPoints2.class
+api\utilities\DataProviderClass.class
+api\test\UserAPITest_POJO.class
+api\test\UserAPITest_DDT.class
+api\utilities\ExcelUtilityClass.class
+api\endpoints\UserEndPoints.class
+api\test\UserAPITest_POJO2.class
+api\payload\User.class
+api\endpoints\Routes.class
+api\utilities\ExtentReportClass.class
