@@ -7,8 +7,8 @@
   <test name="User API Test">
     <classes>
       <!-- <class name="api.test.UserAPITest_DDT"/> --> 
-      <!-- <class name="api.test.UserAPITest_POJO"/> -->
-      <class name="api.test.UserAPITest_POJO2"/>
+      <class name="api.test.UserAPITest_POJO"/>
+      <!-- <class name="api.test.UserAPITest_POJO2"/> -->
     </classes>
   </test>
 </suite>
