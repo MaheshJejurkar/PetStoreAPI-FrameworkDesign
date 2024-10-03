@@ -12,7 +12,7 @@
 			</PatternLayout>
 		</Console>
 
-		<RollingFile name="File" fileName="${basePath}/OpenCart.log"
+		<RollingFile name="File" fileName="${basePath}/UserAPITest.log"
 			filePattern="${basePath}/OpenCart-%d{dd-MM-yyyy}.log">
 			<PatternLayout 
 				pattern="%d{dd-MM-yyyy hh:mm:ss a} [%t] %level %logger{50} - %msg%n">
